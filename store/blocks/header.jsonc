@@ -1,9 +1,29 @@
 {
-    "header-row#notification": {
+    "header": {
+        "blocks": [
+        "header-layout.desktop",
+        "header-layout.mobile"
+        ]
+    },
+    "header.full": {
+        "blocks": [
+        "header-layout.desktop",
+        "header-layout.mobile"
+        ]
+    },
+    
+    "header-layout.desktop": {
         "children": [
-            "header-spacer",
-            "rich-text#header",
-            "header-spacer"
+        "header-row#notification",
+        "header-row#main"
+        ]
+    },
+    
+    "header-layout.mobile": {
+        "children": [
+        "header-row#notification",
+        "header-row#main-mobile",
+        "header-row#search"
         ]
     },
 
