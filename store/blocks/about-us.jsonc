@@ -22,7 +22,7 @@
 
     "tab-list.item#home1": {
         "props": {
-            "tabId": "majorAppliances",
+            "tabId": "sobre",
             "defaultActiveTab": true,
             "label": "Sobre"
         }
@@ -30,7 +30,7 @@
 
     "tab-list.item#home2": {
         "props": {
-            "tabId": "electronics",
+            "tabId": "instagram",
             "label": "Instagram"
         }
     },
@@ -47,7 +47,7 @@
             "rich-text#home1"
         ],
         "props": {
-            "tabId": "majorAppliances"
+            "tabId": "sobre"
         }
     },
 
@@ -56,7 +56,7 @@
             "iframe"
         ],
         "props": {
-            "tabId": "electronics"
+            "tabId": "instagram"
         }
     },
 
@@ -71,8 +71,8 @@
     "iframe": {
         "props": {
             "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
-            "width": "800px",
-            "height": "1000px"
+            "width": 800,
+            "height": 1000
         }
     },
 
