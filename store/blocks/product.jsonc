@@ -36,7 +36,7 @@
   "product-price": {
     "props": {
       "showSavings": true,
-      "showListPrice": 
+      "showListPrice": true
     }
   }
 }
