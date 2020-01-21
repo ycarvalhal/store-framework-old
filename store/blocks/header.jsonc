@@ -27,6 +27,14 @@
         ]
     },
 
+    "header-row#notification": {
+        "children": [
+          "header-spacer",
+          "rich-text#header",
+          "header-spacer"
+        ]
+    },
+
     "header-row#main": {
         "children": [
             "logo",
