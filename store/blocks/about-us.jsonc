@@ -22,7 +22,7 @@
 
     "tab-list.item#home1": {
         "props": {
-            "tabId": "sobre",
+            "tabId": "majorAppliances",
             "defaultActiveTab": true,
             "label": "Sobre"
         }
@@ -30,7 +30,7 @@
 
     "tab-list.item#home2": {
         "props": {
-            "tabId": "instagram",
+            "tabId": "electronics",
             "label": "Instagram"
         }
     },
@@ -47,7 +47,7 @@
             "rich-text#home1"
         ],
         "props": {
-            "tabId": "sobre"
+            "tabId": "majorAppliances"
         }
     },
 
@@ -56,7 +56,7 @@
             "iframe"
         ],
         "props": {
-            "tabId": "instagram"
+            "tabId": "electronics"
         }
     },
 
