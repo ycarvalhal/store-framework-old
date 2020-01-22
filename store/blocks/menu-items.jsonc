@@ -1,6 +1,7 @@
 {
   "menu-item#major-appliances": {
-      "props": {
+    "blocks": ["vtex.menu@2.x:submenu#major"],
+    "props": {
       "type": "custom",
       "highlight": true,
       "itemProps": {
@@ -8,9 +9,10 @@
       }
     }
   },
+
   "menu-item#small-appliances": {
-      "props":
-    {
+    "blocks": ["vtex.menu@2.x:submenu#small"],
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -19,9 +21,10 @@
       }
     }
   },
+  
   "menu-item#electronics": {
-      "props":
-    {
+    "blocks": ["vtex.menu@2.x:submenu#electronics"],
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -30,6 +33,7 @@
       }
     }
   },
+
   "menu-item#refrigerators": {
       "props":
     {
@@ -41,9 +45,9 @@
       }
     }
   },
+
   "menu-item#ovens": {
-      "props":
-    {
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -52,9 +56,9 @@
       }
     }
   },
+
   "menu-item#washers": {
-      "props":
-    {
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -63,9 +67,9 @@
       }
     }
   },
+
   "menu-item#mixers": {
-      "props":
-    {
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -74,9 +78,9 @@
       }
     }
   },
+
   "menu-item#toasters": {
-      "props":
-    {
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -85,9 +89,9 @@
       }
     }
   },
+
   "menu-item#coffee": {
-      "props":
-    {
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -96,9 +100,9 @@
       }
     }
   },
+
   "menu-item#tvs": {
-      "props":
-    {
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -107,9 +111,9 @@
       }
     }
   },
+
   "menu-item#laptops": {
-      "props":
-    {
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -118,9 +122,9 @@
       }
     }
   },
+
   "menu-item#cameras": {
-      "props":
-    {
+    "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
