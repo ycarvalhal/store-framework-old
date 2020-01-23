@@ -22,6 +22,7 @@
                 "queryField": "Blue Top Retro Camera",
                 "mapField": "ft"
             }
-        }
+        },
+        "blocks": ["search-result-layout.desktop"]
     }
 }
